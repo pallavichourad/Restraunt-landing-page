@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.hero {
+    background-image: url('https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=600https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 80vh; /* Optional: sets the height of the hero section */
+    display: flex; /* Optional: centers content vertically */
+    align-items: center; /* Optional: centers content vertically */
+}
+
+h2 {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.menu-item {
+    color: black;
+    font-weight:bold ;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.menu-item img {
+    width: 70%;
+    height: 170px; /* Maintains aspect ratio */
+    border-radius: 5px; /* Optional: adds rounded corners */
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+h4{
+    color:black;
+}
+p{
+    font-size: 120%;
+}
